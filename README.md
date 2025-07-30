@@ -58,12 +58,6 @@ npx qiita preview
 
 [`.github/workflows/publish.yml`](.github/workflows/publish.yml)により、main ブランチへの push 時に自動的に Qiita に記事が公開されます。
 
-## 記事一覧
-
-- [RAG（検索拡張生成）とは？仕組みからメリット、活用例までやさしく解説](public/rag-overview.md)
-
-## 開発者向け情報
-
 ### 記事の管理
 
 - 記事は`public/`ディレクトリに配置
@@ -76,7 +70,3 @@ npx qiita preview
 
 - `contents: write`
 - `QIITA_TOKEN`シークレット
-
-## ライセンス
-
-MIT License
