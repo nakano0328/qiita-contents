@@ -1,13 +1,13 @@
 ---
 title: Geminiを使ってずんだもんと会話してみた
 tags:
-  - 'Python'
-  - 'AI'
-  - 'Gemini'
-  - 'VOICEVOX'
+  - Python
+  - AI
+  - Gemini
+  - VOICEVOX
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-07-31T01:34:53+09:00'
+id: 2c4542fc97417f9e015d
 organization_url_name: null
 slide: false
 ignorePublish: false
