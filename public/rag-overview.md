@@ -7,9 +7,9 @@ tags:
   - rag
   - LLM
 private: false
-updated_at: '2025-07-22T12:11:14+09:00'
+updated_at: '2025-08-01T23:34:46+09:00'
 id: c4689110c82487dff369
-organization_url_name: null
+organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
 ---

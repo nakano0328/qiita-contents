@@ -7,9 +7,9 @@ tags:
   - 個人開発
   - GitHubActions
 private: false
-updated_at: '2025-07-30T16:51:31+09:00'
+updated_at: '2025-08-01T23:35:07+09:00'
 id: 6deed8e4a83100104802
-organization_url_name: null
+organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
 ---

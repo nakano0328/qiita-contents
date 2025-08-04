@@ -8,7 +8,7 @@ tags:
 private: false
 updated_at: '2025-07-31T01:34:53+09:00'
 id: 2c4542fc97417f9e015d
-organization_url_name: null
+organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
 ---
