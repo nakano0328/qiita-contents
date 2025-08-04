@@ -10,7 +10,7 @@ updated_at: ""
 id: null
 organization_url_name: null
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 
 こんにちは！株式会社 HIBARI の中野と申します。
