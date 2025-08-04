@@ -2,12 +2,12 @@
 title: Google AI Studio (Gemini) API と LangChain で、RAG を実装してみた
 tags:
   - AI
-  - LLM
   - Gemini
   - rag
+  - LLM
 private: false
-updated_at: ""
-id: null
+updated_at: '2025-08-05T08:37:36+09:00'
+id: 916a4284f264b848c947
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
