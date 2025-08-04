@@ -6,7 +6,7 @@ tags:
   - Gemini
   - VOICEVOX
 private: false
-updated_at: '2025-07-31T01:34:53+09:00'
+updated_at: '2025-08-01T23:35:35+09:00'
 id: 2c4542fc97417f9e015d
 organization_url_name: hibari-inc
 slide: false
