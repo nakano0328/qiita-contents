@@ -2,12 +2,12 @@
 title: 【論文紹介】1枚の画像から無限の長さの動画を生成するAI「StableAvatar」とは？
 tags:
   - AI
-  - 生成ai
   - 論文解説
+  - 生成AI
   - 動画生成AI
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-08-16T18:48:22+09:00'
+id: 9a812b84824e32896a91
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
