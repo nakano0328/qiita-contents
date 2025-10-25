@@ -6,8 +6,8 @@ tags:
   - AI
   - LLM
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-10-25T22:37:32+09:00'
+id: 03f1457837f514d7cb31
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
