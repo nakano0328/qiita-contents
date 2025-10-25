@@ -1,5 +1,5 @@
 ---
-title: how-llms-generate-text
+title: LLMはどう文章を生成する？仕組みと注意点を今更ながら解説！
 tags:
   - 自然言語処理
   - 機械学習
