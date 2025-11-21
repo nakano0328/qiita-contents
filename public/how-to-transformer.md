@@ -1,16 +1,15 @@
 ---
 title: Transformerとは？仕組みと注意点を今更ながら解説！
 tags:
+  - 自然言語処理
   - AI
   - LLM
-  - 自然言語処理
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-11-21T10:43:16+09:00'
+id: 6b7b7c7fe79532043eb2
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
-name: "hibari_inc"
 ---
 
 こんにちは！株式会社 HIBARI の中野と申します。
