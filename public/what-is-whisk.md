@@ -1,5 +1,5 @@
 ---
-title: what-is-whisk
+title: 【画像生成AI】Whiskとは？プロンプト不要の「混ぜる」画像生成AIを徹底レビュー
 tags:
   - AI
   - Gemini
