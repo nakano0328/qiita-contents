@@ -5,12 +5,12 @@ tags:
   - Gemini
   - 動画生成AI
   - Google
-private: true
+private: false
 updated_at: ''
 id: null
 organization_url_name: hibari-inc
 slide: false
-ignorePublish: true
+ignorePublish: false
 ---
 
 こんにちは！株式会社HIBARIの中野です。
