@@ -1,13 +1,13 @@
 ---
 title: 【画像生成AI】Whiskとは？プロンプト不要の「混ぜる」画像生成AIを徹底レビュー
 tags:
+  - Google
   - AI
   - Gemini
   - 動画生成AI
-  - Google
 private: false
-updated_at: ''
-id: null
+updated_at: '2025-12-15T08:49:19+09:00'
+id: 4ada3ae6c356e48e54bc
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
