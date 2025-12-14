@@ -1,5 +1,5 @@
 ---
-title: 【サーバ代0円】GitHub ActionsとPythonで、自動メール通知システムを実装してみた
+title: GitHub ActionsとPythonで、自動メール通知システムを実装してみた
 tags:
   - Python
   - GitHub
