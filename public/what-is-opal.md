@@ -4,12 +4,12 @@ tags:
   - AI
   - Gemini
   - Google
-private: true
+private: false
 updated_at: ''
 id: null
 organization_url_name: hibari-inc
 slide: false
-ignorePublish: false
+ignorePublish: true
 ---
 
 こんにちは！株式会社HIBARIの中野です。
