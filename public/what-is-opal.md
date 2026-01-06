@@ -1,12 +1,12 @@
 ---
 title: OpalでAIミニアプリを爆速開発してみた
 tags:
+  - Google
   - AI
   - Gemini
-  - Google
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-06T22:18:35+09:00'
+id: 507a38e508fea13085c1
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
