@@ -1,14 +1,14 @@
 ---
 title: Claude Coworkを使ってみた：ブラウザ操作とファイル処理で広がる業務自動化の可能性
 tags:
-  - 'Claude'
-  - 'AI'
-  - 'Automation'
-  - '業務効率化'
-  - 'cowork'
+  - automation
+  - AI
+  - 業務効率化
+  - Claude
+  - cowork
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-01-28T15:05:48+09:00'
+id: c1199a2a41e8984c45c0
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
