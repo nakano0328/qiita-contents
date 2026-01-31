@@ -6,7 +6,7 @@ tags:
   - Gemini
   - 動画生成AI
 private: false
-updated_at: '2026-01-05T17:46:38+09:00'
+updated_at: '2026-01-31T23:18:38+09:00'
 id: 4ada3ae6c356e48e54bc
 organization_url_name: hibari-inc
 slide: false
