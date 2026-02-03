@@ -1,12 +1,12 @@
 ---
 title: Google LabsのFlowとは？Veoで映像を作るAIフィルムメイキングツールをざっくり解説
 tags:
-  - 'google'
-  - '動画生成ai'
-  - 'veo'
+  - Google
+  - 動画生成AI
+  - Veo
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-04T00:57:48+09:00'
+id: 135852796665ddd90a0e
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
