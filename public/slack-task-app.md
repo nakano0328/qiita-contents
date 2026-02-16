@@ -1,13 +1,13 @@
 ---
 title: 初心者でも簡単!! 見るだけでできる、Slackのタスク管理アプリの作り方
 tags:
-  - 'slack'
-  - 'googlesheets'
-  - 'gas'
-  - 'python'
+  - Python
+  - GAS
+  - Slack
+  - GoogleSheets
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-02-16T11:21:43+09:00'
+id: 9769a859bb131a4d00bc
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
