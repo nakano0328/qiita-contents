@@ -1,14 +1,14 @@
 ---
 title: 【3D AI】スケッチ1枚からゲーム用3Dキャラを作ってみた — 2026年版AIパイプラインの実力
 tags:
-  - '3D'
-  - 'AI'
-  - 'Unity'
-  - 'gamedev'
-  - 'Hunyuan3D'
+  - Unity
+  - 3D
+  - AI
+  - gamedev
+  - Hunyuan3D
 private: false
-updated_at: ''
-id: null
+updated_at: '2026-03-15T11:33:58+09:00'
+id: 265a0ad1d631655ce799
 organization_url_name: hibari-inc
 slide: false
 ignorePublish: false
